@@ -1,15 +1,1 @@
-*.Rproj
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-*.png
-*.log
-*.asv
-*.aux
-*.gz
-*.pdf
-data-raw/2019-nCoV_daily_linelist.csv
-*.rda
-*.rds
-*.html
